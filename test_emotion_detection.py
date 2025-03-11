@@ -1,4 +1,3 @@
-# EmotionDetection/test_emotion_detection.py
 import unittest
 from EmotionDetection import emotion_detector
 
